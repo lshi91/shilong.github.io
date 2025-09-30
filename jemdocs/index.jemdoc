@@ -1,0 +1,90 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+==Long Shi (施龙)
+
+~~~
+{}{img_left}{imgs/bio_lshi.jpeg}{alt text}{131}{160}
+Associate Professor, Master's Supervisor, PhD \n 
+[https://it.swufe.edu.cn/info/1121/18388.htm School of Computing and Artificial Intelligence] \n
+[https://swufenlp.group/ AGI and Digital Economy Innovation Team] \n
+Southwestern University of Finance and Economics (SWUFE)\n
+Address: Gezhi Building J310-1, No. 555 Liutai Avenue, Wenjiang District, Chengdu \n
+E-mail: shilong@swufe.edu.cn \n
+Academic Link: [https://scholar.google.com/citations?hl=zh-CN&user=JPit-CYAAAAJ Google Scholar] & [https://www.researchgate.net/profile/Long-Shi-5?ev=hdr_xprf Researchgate] \n 
+Contact: Please email me if you have any questions
+# E-mail: /shilong/\[@\]swufe\[DOT\]edu\[DOT\]cn
+~~~
+
+~{}
+注：有意选择本课题组攻读研究生的同学, 欢迎通过"Group"栏目中列出的部分在读学生邮箱或小红书账号，联系了解课题组情况!
+~{}
+
+== About Me
+I received my Ph.D. from Southwest Jiaotong University and currently is an Associate Professor and Master's Supervisor at the School of Computing and Artificial Intelligence, Southwestern University of Finance and Economics (SWUFE). I have also been a Visiting Scholar at the University of York, UK, and act as an expert reviewer for the Chinese Ministry of Education’s Thesis Evaluation System. 
+I am a professional member of the Chinese Association of Automation (CAA), the China Computer Federation (CCF), and IEEE, and I currently serve as a Committee Member of the CAA Technical Committee on Coexisting-Cooperative-Cognitive Robots, actively contributing to the global research community. My research primarily focuses on Trustworthy Artificial Intelligence and Large Language Models, 
+with specific interests in trustworthy machine learning, federated learning, and the theory and real-world applications of foundation models. I have published over 40 peer-reviewed papers in leading journals, including IEEE Transactions (TSP, TCSVT, TMM, TCSII), as well as top AI conferences such as NeurIPS, KDD, and WWW. As Principal Investigator, I lead research 
+projects funded by the National Natural Science Foundation of China (Youth Program), the Sichuan Provincial Science and Technology Department, and SWUFE’s Talent Introduction Research Grant. I have also contributed to several NSFC General Projects and provincial key initiatives as a core team member. I maintain close collaboration with Changjiang Distinguished Professor 
+[https://gr.xjtu.edu.cn/web/chenbd/home Badong Chen] at Xi'an Jiaotong University, and Professor [https://www.york.ac.uk/physics-engineering-technology/people/yuriy_zakharov/ Yuriy Zakharov] at the University of York
+#I received the B.S. and M.Sc. degrees in computer engineering from Iran University of Science and Technology ([http://www.iust.ac.ir IUST]), and the [http://ece.ut.ac.ir/ University of Tehran], Iran, in 2005 and 2008, respectively. In April 2015, I received the PhD degree in Telecommunications under the supervision of 
+# [http://www.people.kth.se/~mikaelj/ Prof. Mikael Johansson] and  [http://www.people.kth.se/~carlofi/ Prof. Carlo Fischione] at [http:www.kth.se KTH].  
+
+
+== Research
+My research interests include 
+- Trustworthy Artificial Intelligence  
+- Multimodal/Multi-view Learning
+- Large Language Model (LLM)
+- Federated Learning
+- Applications in Signal Processing
+
+#[research.html Find out more].
+== News
+. 2025-09-26: Junyu Chen (陈俊宇) and Guanghao Lin (林光皓) are awarded the [https://it.swufe.edu.cn/info/1166/20008.htm National Scholarship for graduate and undergraduate students (国家奖学金)], respectively. Congratulations to both of them!
+. 2025-09-20: One paper on full-duplex UWA communication is accepted to IEEE Transactions on Wireless Communications. Congratulations to collaborators!
+. 2025-09-18: One paper on quantized LLM is accepted to [https://neurips.cc/virtual/2025/papers.html?search=LoTA-QAF:+Lossless+Ternary+Adaptation+for+Quantization-Aware+Fine-Tuning NeurIPS 2025]. Congratulations to [https://github.com/KingdalfGoodman Junyu Chen]!
+. 2025-09-08: I am invited to serve as the Area Chair of ICASSP 2026.
+. 2025-08-01: I am appointed as a Professional Committee Member of the Coexisting-Cooperative-Cognitive Robots Committee of the Chinese Association of Automation (CAA).
+. 2025-07-30: I am invited to serve as the Guest Editor of the Special Issue on Symmetry in Computer Vision and Machine Learning.
+. 2025-07-04: One paper on trusted multi-view classification is accepted on IEEE Transactions on Multimedia. Congratulations to Chuanqing Tang, a master student under my supervision.
+. 2025-06-01: One paper on incomplete multi-view learning is accepted to [https://www.sciencedirect.com/science/article/pii/S0165168425002609 Signal Processing]. Congratulations to Huangyi Deng, a master student under my supervision.
+. 2025-05-22: One paper on tensor-based graph learning is accepted to IEEE Transactions on Multimedia. Congratulations to Yunshan Ye, a PhD student who works under my supervision.
+. 2025-03-20: One paper on mutli-view graph neural network is accepted to [https://www.sciencedirect.com/science/article/pii/S1566253525002167 Information Fusion]. Congratulations to Junyu Chen, a master student who works under my supervision.
+. 2025-02-03: One paper on markdown awareness in LLM is accepted to [https://dl.acm.org/doi/10.1145/3696410.3714674 WWW 2025]. Congratulations to collaborators!
+. 2025-01-07: One paper on tensorized bipartite graph is accepted to [https://www.sciencedirect.com/science/article/pii/S0957417425001101 Expert Systems with Applications]. Congratulations to [https://caolei2000.github.io/ Lei Cao]!
+. 2024-12-17: I am invited to serve as the Area Chair of IJCNN 2025.
+. 2024-11-08: Cao Lei (曹磊) is nominated for both the [https://it.swufe.edu.cn/info/1166/17788.htm University-Level and Provincial-Level Outstanding Graduate awards (省级、校级优秀毕业生)]. 
+. 2024-10-01: One paper on nonlinear subspace clustering is accepted to [https://www.sciencedirect.com/science/article/pii/S1568494624010779?dgcid=coauthor Applied Soft Computing].
+Congratulations to [https://caolei2000.github.io/ Lei Cao]!
+. 2024-09-26: Lei Cao (曹磊) is awarded the [https://it.swufe.edu.cn/info/1166/17388.htm National Scholarship for graduate students (国家奖学金)]. Congratulations!
+. 2024-07-14: One paper on latent multi-view subspace clustering is accepted to [https://ieeexplore.ieee.org/abstract/document/10600712 IEEE Transactions on Circuits and Systems for Video Technology]. 
+Congratulations to [https://caolei2000.github.io/ Lei Cao]!
+. 2024-06-10: One paper on representation learning of temporal graphs is accepted to [https://dl.acm.org/doi/abs/10.1145/3637528.3671854 KDD 2024]. Congratulations to collaborators!
+. 2023-11-29: Lei Cao (曹磊) is awarded the [https://it.swufe.edu.cn/info/1166/13358.htm Top 50 Guanghua Students in Comprehensive Quality (光华学子综合素质50强)]. Congratulations!
+. 2023-10-08: Lei Cao (曹磊) is awarded the [https://it.swufe.edu.cn/info/1166/1473.htm National Scholarship for graduate students (国家奖学金)]. Congratulations!
+. 2023-08-03: One paper on Euclidean direction search in maximum correntropy criterion is accepted to [https://ieeexplore.ieee.org/abstract/document/10207725/ IEEE Signal Processing Letters].
+. 2023-07-27: One paper on robust kernel adaptive filtering is accepted to [https://ieeexplore.ieee.org/abstract/document/10209568 IEEE Sensors Journal].
+. 2023-05-29: One paper on nonlinear complex-valued filtering is accepted to [https://eusipco2023.org/call_for_papers.html EUSIPCO 2023].
+. 2023-04-30: One paper on maximum correntropy criterion is accepted to [https://ieeexplore.ieee.org/document/10115410 IEEE Signal Processing Letters].
+. 2023-04-29: One paper on kernel method for nonlinear time series prediction is accepted to [https://www.sciencedirect.com/science/article/abs/pii/S0165168423001640 Signal Processing].
+. 2023-04-20: One paper on robust subspace clustering is accepted to [https://ieeexplore.ieee.org/document/10113174 IEEE Signal Processing Letters]. Congratulations to [https://caolei2000.github.io/ Lei Cao], a master student who works under my supervision.
+. 2022-08-22: One paper on kernel maximum correntropy criterion is accepted to [https://ieeexplore.ieee.org/abstract/document/9943337 IEEE 32nd International Workshop on Machine Learning for Signal Processing (MLSP)]. Congratulations to Yunchen Yang!
+. 2021-12-12: One paper on widely linear recursive least squares algorithm is accepted to [https://www.sciencedirect.com/science/article/abs/pii/S1051200421003961 Digital Signal Processing].
+\n
+#[cv.pdf A brief cv].
+
+== Call4Papers
+- Submit your work on [https://www.mdpi.com/journal/symmetry/special_issues/0GI8129FIL symmetry in computer vision and machine learning] to the Special Issue in Symmetry (MDPI) --- deadline May 31, 2026!
+
+== Honors and Awards
+- Outstanding Communist Party Member of the Institute for Digital Economy and Interdisciplinary Innovation, 2025.
+- Outstanding undergraduate thesis advisor at Southwestern University of Finance and Economics, 2022/2023.
+- Outstanding Doctoral Dissertation of Southwest Jiaotong University, 2021.
+- National Scholarship for Doctoral Students, 2018 and 2019.
+- National Scholarship for Master's Students, 2016.
+- Huawei Scholarship, 2017.
+
+== Research Grants
+- "Research on the Theory and Application of Subspace Kernel Adaptive Filtering", Sichuan Science and Technology Program, 2024-2025. (*PI*)
+- "Research on Entropy-based Complex-valued Adaptive Filtering", National Natural Science Foundation of China, 2023-2025. (*PI*)
+- "Stock Price Prediction Model Based on Multimodal Data Fusion", Young Teacher Development Project of Southwestern University of Finance and Economics. (*PI*)
+- "Robust Online Learning Algorithms for Price Prediction in Futures High-Frequency Trading", Key Project of Research Start-up Funding for Talents Introduced by Southwestern University of Finance and Economics. (*PI*)
+- "Distributed Filtering Algorithm for Non-Gaussian Noise Environment", Doctoral Innovation Fund Project of Southwest Jiaotong University. (*PI*)
