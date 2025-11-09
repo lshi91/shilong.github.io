@@ -5,16 +5,17 @@
 [https://scholar.google.com/citations?hl=zh-CN&user=JPit-CYAAAAJ Google Scholar Homepage]
 
 == Selected Papers (**\***corresponding author)
-. Lu Shen, Benjamin Henson, *Long Shi*, Yuriy Zakharov. Full-Duplex UWA Communication with a Two-element Transducer, */IEEE TWC/*, 2025 (to appear).
+. Chuanqing Tang, Yifei Shi, Guanghao Lin, Lei Xing, *Long Shi***\***. Trusted Multi-view Learning for Long-tailed Classification, */AAAI 2026/*.
+. Lu Shen, Benjamin Henson, *Long Shi*, Yuriy Zakharov. Full-Duplex UWA Communication with a Two-element Transducer, */IEEE TWC/*, 2025.
 . Junyu Chen, Junzhuo Li, Zhen Peng, Wenjie Wang, Yuxiang Ren, *Long Shi***\***, *Xuming Hu***\***. LoTA-QAF: Lossless Ternary Adaptation for Quantization-Aware Fine-Tuning,
 */NeurIPS 2025/*. \[[https://arxiv.org/abs/2505.18724 pdf], [https://github.com/KingdalfGoodman/LoTA-QAF code]\]
 . *Long Shi***\***, Chuanqing Tang, Huangyi Deng, Cai Xu, Lei Xing, Badong Chen. Generalized Trusted Multi-view Classification Framework with Hierarchical Opinion Aggregation,
 */IEEE TMM/*, 2025 (to appear). \[[https://arxiv.org/abs/2411.03713 pdf], [https://github.com/lshi91/GTMC-HOA code]\]
-. Huangyi Deng, Ningning Pan, Chuanqing Tang, *Long Shi***\***. Trustworthy data recovery for incomplete multi-view learning, * **Signal Processing** *, 2025. \[[https://www.sciencedirect.com/science/article/pii/S0165168425002609 pdf], [https://github.com/ding6ding/TDR-IMV code]\]
+. Huangyi Deng, Ningning Pan, Chuanqing Tang, *Long Shi***\***. Trustworthy data recovery for incomplete multi-view learning, */Signal Processing/*, 2025. \[[https://www.sciencedirect.com/science/article/pii/S0165168425002609 pdf], [https://github.com/ding6ding/TDR-IMV code]\]
 . *Long Shi*, Yunshan Ye, Lei Cao, *Yu Zhao**\**, *Badong Chen**\**. Tensor-based graph learning with consistency and specificity for multi-view clustering, 
 */IEEE TMM/*, 2025 (to appear). \[[https://arxiv.org/abs/2403.18393 pdf], [https://github.com/lshi91/CSTGL-Code code]\] 
 . Junyu Chen, *Long Shi**\**, Badong Chen. RSEA-MVGNN: Multi-view graph neural network with reliable structural enhancement and aggregation,
-*Information Fusion*, 2025. \[[https://www.sciencedirect.com/science/article/pii/S1566253525002167 pdf], [http://github.com/junyu000/RSEA-MVGNN code]\] 
+*/Information Fusion/*, 2025. \[[https://www.sciencedirect.com/science/article/pii/S1566253525002167 pdf], [http://github.com/junyu000/RSEA-MVGNN code]\] 
 . Zhongpu Chen, Yinfeng Liu, *Long Shi*, Zhi-Jie Wang, Xingyan Chen, Yu Zhao, Fuji Ren. MDEval: Evaluating and Enhancing Markdown Awareness in Large Language Models,
 */WWW 2025/*. \[[https://arxiv.org/pdf/2501.15000 pdf], [https://github.com/SWUFE-DB-Group/MDEval-Benchmark code]\]
 . Lei Cao, Zhenzhu Chen, Chuanqing Tang, Junyu Chen, Huaming Du, Yu Zhao, Qing Li, *Long Shi**\**. Unified and efficient multi-view clustering with tensorized bipartite graph,
